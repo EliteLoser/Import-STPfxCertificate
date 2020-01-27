@@ -6,6 +6,6 @@ See the online documentation at https://www.powershelladmin.com/wiki/Import_PFX_
 
 Relies on SMB and WinRM / PowerShell remoting access to the remote computer.
 
-[img](/Import-PfxCertificate-example.png)
+![img](/Import-PfxCertificate-example.png)
 
 Svendsen Tech, Joakim Borger Svendsen, 2020-01-27
